@@ -1,16 +1,16 @@
 .beadle{
-        width: 32%; /* Set the width of the container */
-        margin: 0 auto; /* Set left and right margins to auto */
+        width: 32%; 
+        margin: 0 auto;
 }
 .image{
-    width: 32%; /* Set the width of the container */
-    margin: 0 auto; /* Set left and right margins to auto */
+    width: 32%; 
+    margin: 0 auto;
 }
 .Trivia{
-    width: 33%; /* Set the width of the container */
-    margin: 0 auto; /* Set left and right margins to auto */
+    width: 33%;
+    margin: 0 auto; 
 }
 .beadle {
-    border: 1px solid black; /* Set border style */
-    padding: 10px; /* Optional: Add padding to the content */
+    border: 1px solid black; 
+    padding: 10px;
 }
